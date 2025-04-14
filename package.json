@@ -1,0 +1,18 @@
+{
+  "name": "dummy-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "multer": "^1.4.5-lts.2",
+    "nodemon": "^3.1.9",
+    "sharp": "^0.34.1"
+  }
+}

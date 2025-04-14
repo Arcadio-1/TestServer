@@ -1,0 +1,143 @@
+{
+  "category": [],
+  "brands": [
+    {
+      "id": "673e4733c48086fad20c61a0",
+      "name": "Samsung"
+    },
+    {
+      "id": "673e4733c48086fad20c61a1",
+      "name": "LG"
+    },
+    {
+      "id": "673e4733c48086fad20c61a2",
+      "name": "Sony"
+    },
+    {
+      "id": "673e4733c48086fad20c61a3",
+      "name": "Acer"
+    },
+    {
+      "id": "673e4733c48086fad20c61a4",
+      "name": "Dell"
+    },
+    {
+      "id": "673e4733c48086fad20c61a5",
+      "name": "HP"
+    },
+    {
+      "id": "673e4733c48086fad20c61a6",
+      "name": "Peerless-AV"
+    },
+    {
+      "id": "673e4733c48086fad20c61a7",
+      "name": "Vivo"
+    },
+    {
+      "id": "673e4733c48086fad20c61a8",
+      "name": "Kanto"
+    },
+    {
+      "id": "673e4733c48086fad20c61a9",
+      "name": "Mount-It!"
+    },
+    {
+      "id": "673e4733c48086fad20c61aa",
+      "name": "AVFI"
+    },
+    {
+      "id": "673e4733c48086fad20c61ab",
+      "name": "Chief"
+    },
+    {
+      "id": "673e4733c48086fad20c61ac",
+      "name": "Apple"
+    },
+    {
+      "id": "673e4733c48086fad20c61ad",
+      "name": "Microsoft (Surface)"
+    },
+    {
+      "id": "673e4733c48086fad20c61ae",
+      "name": "Lenovo"
+    },
+    {
+      "id": "673e4733c48086fad20c61af",
+      "name": "Huawei (MatePad)"
+    },
+    {
+      "id": "673e4733c48086fad20c61b0",
+      "name": "Amazon (Fire Tablet)"
+    },
+    {
+      "id": "673e4733c48086fad20c61b1",
+      "name": "Barco"
+    },
+    {
+      "id": "673e4733c48086fad20c61b2",
+      "name": "Absen"
+    },
+    {
+      "id": "673e4733c48086fad20c61b3",
+      "name": "Leyard"
+    },
+    {
+      "id": "673e4733c48086fad20c61b4",
+      "name": "Unilumin"
+    },
+    {
+      "id": "673e4733c48086fad20c61b5",
+      "name": "Planar"
+    },
+    {
+      "id": "673e4733c48086fad20c61b6",
+      "name": "NEC"
+    },
+    {
+      "id": "673e4733c48086fad20c61b7",
+      "name": "Philips"
+    },
+    {
+      "id": "673e4733c48086fad20c61b8",
+      "name": "Sharp"
+    },
+    {
+      "id": "673e4733c48086fad20c61b9",
+      "name": "Christie"
+    },
+    {
+      "id": "673e4733c48086fad20c61ba",
+      "name": "Google (Pixel)"
+    },
+    {
+      "id": "673e4733c48086fad20c61bb",
+      "name": "Xiaomi"
+    },
+    {
+      "id": "673e4733c48086fad20c61bc",
+      "name": "OnePlus"
+    },
+    {
+      "id": "673e4733c48086fad20c61bd",
+      "name": "Nanolumens"
+    },
+    {
+      "id": "673e4733c48086fad20c61be",
+      "name": "Elo Touch Solutions"
+    },
+    {
+      "id": "673e4733c48086fad20c61bf",
+      "name": "D3 LED"
+    },
+    {
+      "id": "673e4733c48086fad20c61c0",
+      "name": "Primeview"
+    },
+    {
+      "id": "673e4733c48086fad20c61c1",
+      "name": "Daktronics"
+    }
+  ],
+  "displays": [],
+  "uploads": []
+}
