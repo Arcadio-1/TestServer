@@ -7,7 +7,7 @@ This is a JSON Server project configured for testing frontend applications. It p
 First, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-jsonserver-repo.git
+git clone https://github.com/Arcadio-1/TestServer.git
 cd your-jsonserver-repo
 ```
 
